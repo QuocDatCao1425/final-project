@@ -12,10 +12,10 @@ Starting from the course starter notebook, I implement and compare:
 ## Repository Contents
 
 - `pong.ipynb` – Main Jupyter notebook with all code for training and evaluation.
-- `baseline-early-episode-0.mp4` – Baseline DQN agent, early in training.
-- `baseline-learned-episode-0.mp4` – Baseline DQN agent after learning.
-- `ddqn-early-episode-0.mp4` – Double DQN agent, early in training.
-- `ddqn-learned-episode-0.mp4` – Double DQN agent after learning.
+- [`baseline-early-episode-0.mp4`](https://github.com/QuocDatCao1425/final-project/blob/main/baseline-early-episode-0.mp4) – Baseline DQN agent, early in training.
+- [`baseline-learned-episode-0.mp4`](https://github.com/QuocDatCao1425/final-project/blob/main/baseline-learned-episode-0.mp4) – Baseline DQN agent after learning.
+- [`ddqn-early-episode-0.mp4`](https://github.com/QuocDatCao1425/final-project/blob/main/ddqn-early-episode-0.mp4) – Double DQN agent, early in training.
+- [`ddqn-learned-episode-0.mp4`](https://github.com/QuocDatCao1425/final-project/blob/main/ddqn-learned-episode-0.mp4) – Double DQN agent after learning.
 - `report.pdf` – Written report with method details, experiments, and discussion.
 - `README.md` – This file.
 
